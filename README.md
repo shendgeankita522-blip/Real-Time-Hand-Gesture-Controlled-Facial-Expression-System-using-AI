@@ -13,7 +13,7 @@ This project demonstrates how gesture recognition can be used to create an inter
 
 🎥 **Watch Project Demo**
 
-"D:\My Own Projects\Real-Time Hand Gesture Controlled Facial Expression System using AI\Output Demo\Real-Time Hand Gesture Controlled Facial Expression System 2026-07-11 14-29-48.mp4"
+https://github.com/shendgeankita522-blip/Real-Time-Hand-Gesture-Controlled-Facial-Expression-System-using-AI/blob/main/Output%20Demo/Real-Time%20Hand%20Gesture%20Controlled%20Facial%20Expression%20System%202026-07-11%2014-29-48.mp4
 
 ---
 
