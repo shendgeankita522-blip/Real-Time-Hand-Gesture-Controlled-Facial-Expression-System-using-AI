@@ -103,7 +103,6 @@ python Main.py
 | 👊 Fist | Angry 😠 |
 | 🤚 Default | Neutral 😐 |
 
-*(Modify this table according to your actual gesture mappings.)*
 
 ---
 
